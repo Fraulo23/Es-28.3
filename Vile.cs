@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Es_28._3
 {
-    internal class Vile:Appartamento
+    internal class Ville:Appartamento
     {
         public int MqGiardino { get; set; }
     }
